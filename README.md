@@ -4,7 +4,7 @@ I'm a React developer with 2 years of experience in building complex web applica
 
 ### 🔭 What I'm Working On
 
-I'm currently working on cloning some popular sites using React, Firebase, API, and Redux. This project is helping me gain more experience with these technologies and to develop my front-end development skills further.
+I'm currently cloning some popular sites using React, Firebase, API, and Redux. This project is helping me gain more experience with these technologies and to develop my front-end development skills further.
 
 ### 🌱 What I'm Learning
 
