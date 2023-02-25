@@ -1,5 +1,4 @@
-<h1 align="center"><span style="color: red;">Dev</span></h1>
-<p align="center">A React front-end developer</p>
+# Hi there 👋, I'm Dev!
 
 I'm a React developer with 2 years of experience in building complex web applications. Proficient in React, Redux, and FireBase, I enjoy developing responsive and scalable user interfaces with high performance and efficiency. I have a strong understanding of modern front-end development concepts and practices, including ES6+, TypeScript, CSS preprocessors, and testing frameworks like Jest and Enzyme. As a detail-oriented problem-solver, I am committed to delivering quality code and excellent user experiences. I am passionate about staying up-to-date with the latest web development trends and contributing to the React community through open-source projects
 
@@ -18,10 +17,17 @@ I'm currently focusing on front-end development and learning new technologies to
 - Redux
 - Firebase
 - APIs
+- HTML
+- CSS
 
 ### 📫 How to Reach Me
 
 - Email: devdashk66@gmail.com
-- LinkedIn: https://www.linkedin.com/in/devdashk66/
-- Twitter: https://twitter.com/devdashk66
-- Facebook: https://www.facebook.com/devdashk66/
+- LinkedIn: [devdashk66](https://www.linkedin.com/in/devdashk66/)
+- Twitter: [@devdashk66](https://twitter.com/devdashk66)
+- Facebook: [devdashk66](https://www.facebook.com/devdashk66/)
+
+
+### My GitHub Stats
+
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdashk66&count_private=true&show_icons=true&theme=dark)](https://github.com/devdashk66)
