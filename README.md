@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Dev!
+<h1 align="center"><span style="color: red;">Dev</span></h1>
+<p align="center">A React front-end developer</p>
 
 I'm a React developer with 2 years of experience in building complex web applications. Proficient in React, Redux, and FireBase, I enjoy developing responsive and scalable user interfaces with high performance and efficiency. I have a strong understanding of modern front-end development concepts and practices, including ES6+, TypeScript, CSS preprocessors, and testing frameworks like Jest and Enzyme. As a detail-oriented problem-solver, I am committed to delivering quality code and excellent user experiences. I am passionate about staying up-to-date with the latest web development trends and contributing to the React community through open-source projects
 
