@@ -30,4 +30,4 @@ I'm currently focusing on front-end development and learning new technologies to
 
 ### My GitHub Stats
 
-[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdashk66&count_private=true&show_icons=true&theme=dark)](https://github.com/devdashk66)
+[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdashk66&count_private=true&show_icons=true&theme=radical)](https://github.com/devdashk66)
