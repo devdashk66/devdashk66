@@ -8,16 +8,17 @@ I'm currently cloning some popular sites using React, Firebase, API, and Redux. 
 
 ### 🌱 What I'm Learning
 
-I'm currently focusing on front-end development and learning new technologies to enhance my skills. Some of the technologies I'm learning include TypeScript, Vue, Angular, Next.js, and GraphQL.
+I'm currently focusing on front-end development and learning new technologies to enhance my skills. Some of the technologies I'm learning include TypeScript, Redux Toolkit and Framer Motion.
 
 ### 👨‍💻 My Top Technologies
 
 - Next JS
 - React
-- Redux
+- MongoDB
 - Firebase
 - JavaScript
-- APIs
+- Tailwind CSS
+- ShadCN
 
 
 ### 📫 How to Reach Me
@@ -26,8 +27,3 @@ I'm currently focusing on front-end development and learning new technologies to
 - LinkedIn: [devdashk66](https://www.linkedin.com/in/devdashk66/)
 - Twitter: [@devdashk66](https://twitter.com/devdashk66)
 - Facebook: [devdashk66](https://www.facebook.com/devdashk66/)
-
-
-### My GitHub Stats
-
-[![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdashk66&count_private=true&show_icons=true&theme=radical)](https://github.com/devdashk66)
