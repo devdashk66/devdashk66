@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dev!
 
-I'm a React developer with 2 years of experience in building complex web applications. Proficient in Next JS, React, and MongoDb, I enjoy developing responsive and scalable user interfaces with high performance and efficiency. I have a strong understanding of modern front-end development concepts and practices, including ES6+, TypeScript, CSS preprocessors, and testing frameworks like Jest and Enzyme. As a detail-oriented problem-solver, I am committed to delivering quality code and excellent user experiences. I am passionate about staying up-to-date with the latest web development trends and contributing to the React community through open-source projects
+I am a React developer with 2 years of experience in making complex web applications. I am good at Next JS, React, and MongoDB. I love designing user interfaces that are responsive and can grow while still being fast and efficient. I understand modern front-end development ideas and practices well, including ES6+, TypeScript, CSS preprocessors, and testing tools like Jest and Enzyme. I pay attention to details and like solving problems. I want to write good code and create great user experiences. I care about keeping up with new web development trends and contributing back to the React community by working on open-source projects.
 
 ### 🌱 What I'm Learning
 
